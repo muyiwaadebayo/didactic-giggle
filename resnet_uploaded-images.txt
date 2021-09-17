@@ -1,0 +1,17 @@
+
+Total Elapsed Runtime: 0:0:0
+Command Line Arguments:
+     dir = uploaded_images/ 
+    arch = resnet 
+ dogfile = dognames.txt
+
+Prints 10 filenames from folder specified as image_dir
+
+Empty Dictionary results_dic - n items= 0
+
+Printing all key-value pairs in dictionary results_dic:
+
+Pet Image Label Dictionary has 0 key-value pairs.
+Below are 0 of them:
+Value of images_dir is uploaded_images/, and model is resnet
+{}
